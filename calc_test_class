@@ -1,0 +1,46 @@
+
+  // IntelliJ API Decompiler stub source generated from a class file
+  // Implementation of methods is not available
+
+public class calculator_test {
+    public calculator_test() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void addition_int() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void addition_rat() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void multiplication_int() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void multiplication_rat() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void subtraction_int() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void subtraction_rat() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void division_by_zero() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void division_rat() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void division_int() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void division_int_rational() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void addition_int_rational() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void subtraction_int_rational() { /* compiled code */ }
+
+    @org.junit.jupiter.api.Test
+    void multiplication_int_rational() { /* compiled code */ }
+}
